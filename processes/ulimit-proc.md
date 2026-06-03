@@ -1,6 +1,6 @@
 # ОГРАНИЧЕНИЕ ПРОЦЕССА
 
-[ulimit-proc.md](./screenshots/ulimit.png)
+![ulimit-proc.md](./screenshots/ulimit.png)
 
 ### ULIMIT
 ulimit -n 1234 - максимум 1024 отрытых файлов
