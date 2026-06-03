@@ -20,4 +20,4 @@ cat /proc/1234/limits - лимиты
 ### Дерево процессов 
 pstree / pstree -p
 
-![proc-info](screenshots/pstree.png)
+![proc-info.md](screenshots/pstree.png)
