@@ -1,2 +1,0 @@
-# linux-home
-notes 
